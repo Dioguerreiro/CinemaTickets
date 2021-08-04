@@ -1,5 +1,5 @@
-{
-	"movies": [{
+[
+		{
 			"movieName": "The Lion King",
 			"movieSubname": "The King Has Returned",
 			"releaseDate": "July 19",
@@ -96,4 +96,4 @@
 			"imageDescription4": ""
 		}
 	]
-}
+
