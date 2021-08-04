@@ -1,4 +1,5 @@
-[
+{
+	"movies":[
 		{
 			"movieName": "The Lion King",
 			"movieSubname": "The King Has Returned",
@@ -96,4 +97,4 @@
 			"imageDescription4": ""
 		}
 	]
-
+}
