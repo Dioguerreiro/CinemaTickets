@@ -1,100 +1,99 @@
 {
-  [
-    {
-      "movieName": "The Lion King",
-      "movieSubname": "The King Has Returned",
-      "releaseDate": "July 19",
-      "description": "In the Pride Lands of Africa, a pride of lions rule over the animal kingdom from Pride Rock. King Mufasa and Queen Sarabi present their newborn son, Simba, to the gathering animals by Rafiki the mandrill, the kingdom's shaman and advisor. Mufasa shows Simba the Pride Lands and explains to him the responsibilities of kingship and the 'circle of life', which connects all living things. Mufasa's younger brother, Scar, covets the throne and plots to get rid of Mufasa and Simba, so he may become king. He tricks Simba and his best friend Nala into exploring a forbidden elephants' graveyard, where they are chased by a clan of hyenas led by the ruthless Shenzi. Mufasa hears about the incident from his majordomo, the hornbill Zazu, and rescues the cubs. Though upset with Simba, Mufasa forgives him and explains that the great kings of the past watch over them from the night sky, from which he will one day watch over Simba. Meanwhile, Scar visits the hyenas and convinces them to help him overthrow Mufasa in exchange for hunting rights in the Pride Lands.",
-      "moviePoster": "",
-      "imageTop": "",
-      "imageDescription1": "",
-      "imageDescription2": "",
-      "imageDescription3": "",
-      "imageDescription4": ""
-    },
-    {
-      "movieName": "Moonlight",
-      "movieSubname": "",
-      "releaseDate": "",
-      "description": "",
-      "moviePoster": "",
-      "imageTop": "",
-      "imageDescription1": "",
-      "imageDescription2": "",
-      "imageDescription3": "",
-      "imageDescription4": ""
-    },
-    {
-      "movieName": "Moonlight",
-      "movieSubname": "",
-      "releaseDate": "",
-      "description": "",
-      "moviePoster": "",
-      "imageTop": "",
-      "imageDescription1": "",
-      "imageDescription2": "",
-      "imageDescription3": "",
-      "imageDescription4": ""
-    },
-    {
-      "movieName": "Moonlight",
-      "movieSubname": "",
-      "releaseDate": "",
-      "description": "",
-      "moviePoster": "",
-      "imageTop": "",
-      "imageDescription1": "",
-      "imageDescription2": "",
-      "imageDescription3": "",
-      "imageDescription4": ""
-    },
-    {
-      "movieName": "Moonlight",
-      "movieSubname": "",
-      "releaseDate": "",
-      "description": "",
-      "moviePoster": "",
-      "imageTop": "",
-      "imageDescription1": "",
-      "imageDescription2": "",
-      "imageDescription3": "",
-      "imageDescription4": ""
-    },
-    {
-      "movieName": "Moonlight",
-      "movieSubname": "",
-      "releaseDate": "",
-      "description": "",
-      "moviePoster": "",
-      "imageTop": "",
-      "imageDescription1": "",
-      "imageDescription2": "",
-      "imageDescription3": "",
-      "imageDescription4": ""
-    },
-    {
-      "movieName": "365 Days",
-      "movieSubname": "",
-      "releaseDate": "",
-      "description": "",
-      "moviePoster": "",
-      "imageTop": "",
-      "imageDescription1": "",
-      "imageDescription2": "",
-      "imageDescription3": "",
-      "imageDescription4": ""
-    },
-    {
-      "movieName": "Annabelle",
-      "movieSubname": "Comes Home",
-      "releaseDate": "",
-      "description": "",
-      "moviePoster": "",
-      "imageTop": "",
-      "imageDescription1": "",
-      "imageDescription2": "",
-      "imageDescription3": "",
-      "imageDescription4": ""
-    }
-  ]
+	"movies": [{
+			"movieName": "The Lion King",
+			"movieSubname": "The King Has Returned",
+			"releaseDate": "July 19",
+			"description": "In the Pride Lands of Africa, a pride of lions rule over the animal kingdom from Pride Rock. King Mufasa and Queen Sarabi present their newborn son, Simba, to the gathering animals by Rafiki the mandrill, the kingdom's shaman and advisor. Mufasa shows Simba the Pride Lands and explains to him the responsibilities of kingship and the 'circle of life', which connects all living things. Mufasa's younger brother, Scar, covets the throne and plots to get rid of Mufasa and Simba, so he may become king. He tricks Simba and his best friend Nala into exploring a forbidden elephants' graveyard, where they are chased by a clan of hyenas led by the ruthless Shenzi. Mufasa hears about the incident from his majordomo, the hornbill Zazu, and rescues the cubs. Though upset with Simba, Mufasa forgives him and explains that the great kings of the past watch over them from the night sky, from which he will one day watch over Simba. Meanwhile, Scar visits the hyenas and convinces them to help him overthrow Mufasa in exchange for hunting rights in the Pride Lands.",
+			"moviePoster": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/reiLeaoMoviePoster.jpg",
+			"imageTop": "",
+			"imageDescription1": "",
+			"imageDescription2": "",
+			"imageDescription3": "",
+			"imageDescription4": ""
+		},
+		{
+			"movieName": "Moonlight",
+			"movieSubname": "",
+			"releaseDate": "",
+			"description": "",
+			"moviePoster": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/moonlightMoviePoster.jpg",
+			"imageTop": "",
+			"imageDescription1": "",
+			"imageDescription2": "",
+			"imageDescription3": "",
+			"imageDescription4": ""
+		},
+		{
+			"movieName": "Moonlight",
+			"movieSubname": "",
+			"releaseDate": "",
+			"description": "",
+			"moviePoster": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/moonlightMoviePoster.jpg",
+			"imageTop": "",
+			"imageDescription1": "",
+			"imageDescription2": "",
+			"imageDescription3": "",
+			"imageDescription4": ""
+		},
+		{
+			"movieName": "Moonlight",
+			"movieSubname": "",
+			"releaseDate": "",
+			"description": "",
+			"moviePoster": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/moonlightMoviePoster.jpg",
+			"imageTop": "",
+			"imageDescription1": "",
+			"imageDescription2": "",
+			"imageDescription3": "",
+			"imageDescription4": ""
+		},
+		{
+			"movieName": "Moonlight",
+			"movieSubname": "",
+			"releaseDate": "",
+			"description": "",
+			"moviePoster": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/moonlightMoviePoster.jpg",
+			"imageTop": "",
+			"imageDescription1": "",
+			"imageDescription2": "",
+			"imageDescription3": "",
+			"imageDescription4": ""
+		},
+		{
+			"movieName": "Moonlight",
+			"movieSubname": "",
+			"releaseDate": "",
+			"description": "",
+			"moviePoster": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/moonlightMoviePoster.jpg",
+			"imageTop": "",
+			"imageDescription1": "",
+			"imageDescription2": "",
+			"imageDescription3": "",
+			"imageDescription4": ""
+		},
+		{
+			"movieName": "365 Days",
+			"movieSubname": "",
+			"releaseDate": "",
+			"description": "",
+			"moviePoster": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/365MoviePoster.jpg",
+			"imageTop": "",
+			"imageDescription1": "",
+			"imageDescription2": "",
+			"imageDescription3": "",
+			"imageDescription4": ""
+		},
+		{
+			"movieName": "Annabelle",
+			"movieSubname": "Comes Home",
+			"releaseDate": "",
+			"description": "",
+			"moviePoster": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/annabelleMoviePoster.jpg",
+			"imageTop": "",
+			"imageDescription1": "",
+			"imageDescription2": "",
+			"imageDescription3": "",
+			"imageDescription4": ""
+		}
+	]
 }
