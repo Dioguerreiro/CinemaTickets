@@ -41,7 +41,7 @@
 			"movieSubname": "",
 			"releaseDate": "",
 			"description": "",
-			"moviePoster": "",
+			"moviePoster": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/fastAndFuriousMoviePoster.jpg",
 			"imageTop": "",
 			"imageDescription1": "",
 			"imageDescription2": "",
@@ -85,11 +85,11 @@
 			"imageDescription4": ""
 		},
 		{
-			"movieName": "Annabelle",
-			"movieSubname": "Comes Home",
+			"movieName": "Bad Boys",
+			"movieSubname": "For Life",
 			"releaseDate": "",
 			"description": "",
-			"moviePoster": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/annabelleMoviePoster.jpg",
+			"moviePoster": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/badBoysMoviePoster.jpg",
 			"imageTop": "",
 			"imageDescription1": "",
 			"imageDescription2": "",
