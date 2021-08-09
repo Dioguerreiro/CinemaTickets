@@ -117,5 +117,59 @@
 			"imageDescription4": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/theLionKingDescription4.jpg",
 			"color": "#FAA71B"
 		}
+	],
+	"moviesComing":[
+		{
+			"movieName": "Spiderman",
+			"movieSubname": "Far From Home",
+			"releaseDate": "June 26, 2019",
+			"description": "In Ixtenco, Mexico, Nick Fury and Maria Hill investigate an unnatural storm and encounter the Earth Elemental. Quentin Beck, a super-powered individual, arrives to defeat the creature. Beck subsequently defeats the Elemental and is recruited by Fury and Hill. In New York City, the Midtown School of Science and Technology completes its year, which was restarted to accommodate the students who previously disintegrated five years earlier as a result of Thanos' actions.[N 1] They had reappeared un-aged, thanks to the actions of the Avengers.[N 2] The school organizes a two-week summer field trip to Europe, where Peter Parker—who is still mourning the death of his mentor Tony Stark—plans to reveal to classmate MJ his attraction to her. Happy Hogan informs Parker that Fury intends to contact him, but Parker ignores Fury's phone call. Parker and his classmates travel to Venice, Italy, where the Water Elemental attacks. Parker helps protect his classmates, while Beck arrives and defeats the creature. Fury meets with Parker and gives him Stark's glasses, which were meant for his successor. The glasses enable him to communicate with and take command of the artificial intelligence E.D.I.T.H., which has access to Stark Industries' databases and commands a large orbital weapons supply. Beck claims to hail from an alternate reality within the Multiverse, where the four Elementals killed his family and destroyed his civilization. With only the Fire Elemental left to destroy, Beck predicts it will attack Prague. Parker declines Fury's invitation to join the fight and returns to his class trip. ",
+			"moviePoster": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/spidermanMoviePoster.jpg",
+			"imageTop": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/spidermanBackground.jpg",
+			"imageDescription1": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/spidermanDescription1.jpg",
+			"imageDescription2": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/spidermanDescription2.jpg",
+			"imageDescription3": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/spidermanDescription3.jpg",
+			"imageDescription4": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/spidermanDescription4.jpg",
+			"color": "#CF2724"
+		},
+		{
+			"movieName": "Bad Boys",
+			"movieSubname": "For Life",
+			"releaseDate": "January 17, 2020",
+			"description": "Isabel Aretas, widow of cartel kingpin Benito, escapes from a Mexican prison with the aid of her son Armando. Isabel sends Armando to Miami, tasking him with recovering a substantial stash of money his father Benito had hidden, as well as assassinating the people responsible for his father's arrest and eventual death in prison. Isabel demands that Armando kill Miami detective Mike Lowrey last. In Miami, Mike accompanies his partner Marcus Burnett to the birth of his first grandson. Desiring to spend more time with his family, the aging Marcus tells Mike he intends to retire, to Mike's chagrin. During a party celebrating Marcus' grandson, Mike is shot by Armando and left in a coma for months. Chastised by Isabel for targeting Mike first, Armando continues to assassinate other targets on his list during Mike's convalescence. Fllowing Mike's recovery, he is determined to seek revenge and unsuccessfully attempts to recruit the now-retired Marcus, causing a fall out between them. Mike violently obtains the identity of arms dealer Booker Grassie from an informant. Realizing that Mike will not heed orders to stay away from the investigation, Captain Howard reluctantly allows him to work with the tech-driven team in charge, the Advanced Miami Metro Operations (AMMO), led by Mike's ex-girlfriend Rita. While the team surveils Grassie at an arms deal, Mike determines that the buyers intend to kill Grassie and intervenes, but fails to save him. Later, Marcus is called by Carver Remy, an old informant who believes the assassin is after him. Marcus contacts Mike and the pair travel to Carver, but are too late to save him. Armando escapes after a fistfight with Mike. ",
+			"moviePoster": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/badBoysMoviePoster.jpg",
+			"imageTop": "",
+			"imageDescription1": "",
+			"imageDescription2": "",
+			"imageDescription3": "",
+			"imageDescription4": "",
+			"color": ""
+		},
+		{
+			"movieName": "365 Days",
+			"movieSubname": "",
+			"releaseDate": "February 7, 2020",
+			"description": "After a meeting between the Torricelli Sicilian Mafia crime family and black market dealers, Massimo Torricelli watches a beautiful woman on a beach and talks with his father, the mafia boss. Suddenly, the dealers shoot Massimo and his father; Massimo survives while his father dies from his injuries. Five years later, Massimo is the leader of the Torricelli crime family. In Warsaw, Laura Biel is unhappy in her relationship with her boyfriend, Martin. Laura celebrates her 29th birthday in Italy with Martin and her best friend Olga, but after Martin visits Etna without her, she goes for a walk and runs into Massimo, who kidnaps her. At his villa, Massimo reveals to Laura that she was the woman at the beach five years ago and that when he was injured, all he could think about was her. After searching for years and finally spotting her, he kidnapped her, intending to keep her as a prisoner for 365 days in the hopes that she will fall in love with him. He also promises her that he will not have sex with her without her consent, though he is physically aggressive with her. As they spend time together, Laura teases him and then refuses to have sex with him. At a hotel in Rome, she begins to tease him again and he cuffs her to the bed. Massimo then makes Laura watch him receive oral sex from another woman. Afterward, he claims he is going to penetrate her but changes his mind and orders her to get dressed for a club. ",
+			"moviePoster": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/365MoviePoster.jpg",
+			"imageTop": "",
+			"imageDescription1": "",
+			"imageDescription2": "",
+			"imageDescription3": "",
+			"imageDescription4": "",
+			"color": ""
+		},
+		{
+			"movieName": "Toy Story 4",
+			"movieSubname": "",
+			"releaseDate": "June 21, 2019",
+			"description": "Between the events of Toy Story 2 and Toy Story 3, Woody and Bo Peep rescue RC, Andy's remote control car, from being washed away in a storm. Moments later, Bo Peep and her lamp are donated to a new owner. A distraught Woody considers coming with her, but in the end, decides his duty is to stay with Andy. Nine years later, after a college-bound Andy has donated his toys to Bonnie, Woody struggles to adapt, as the toys in Bonnie´s room already have a leader, Dolly. Bonnie also shows little interest in playing with him, giving his sheriff badge to Jessie instead. Woody still remains convinced Bonnie must need him, and sneaks into her backpack the day of her kindergarten orientation. When another child steals Bonnie´s art supplies, Woody gathers objects from the trash and leaves them on Bonnie´s table. Discovering them, Bonnie creates a doll from a spork and some other odds and ends, which she names Forky. Forky comes to life, but suffers an existential crisis and keeps trying to jump into the trash. As Forky quickly becomes Bonnie's new favorite toy, Woody repeatedly has to stop him from throwing himself away. ",
+			"moviePoster": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/toyStoryMoviePoster.jpg",
+			"imageTop": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/toystoryBackground.jpg",
+			"imageDescription1": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/toystoryDescription1.jpg",
+			"imageDescription2": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/toystoryDescription2.jpg",
+			"imageDescription3": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/toystoryDescription3.jpg",
+			"imageDescription4": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/toystoryDescription4.jpg",
+			"color": "#FFE344"
+		}
 	]
 }
