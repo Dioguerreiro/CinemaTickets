@@ -6,12 +6,12 @@
 			"releaseDate": "October 5, 2018",
 			"description": "While exploring space for new habitable worlds, a probe belonging to the bio-engineering corporation Life Foundation discovers a comet covered in symbiotic lifeforms. The probe returns to Earth with four samples, but one escapes and causes the ship to crash in Malaysia. The Life Foundation recovers the other three and transports them to their research facility in San Francisco, where they discover that the symbiotes cannot survive without oxygen-breathing hosts, which often fatally reject the symbiosis. Investigative journalist Eddie Brock reads about these human trials in a classified document in the possession of his fiancée Anne Weying, an attorney preparing a lawsuit defense for the Life Foundation. Brock confronts Life Foundation CEO Carlton Drake about the trials, leading to both Brock and Weying losing their jobs. Consequently, Weying ends their relationship. ",
 			"moviePoster": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/venomMoviePoster.jpg",
-			"imageTop": "",
-			"imageDescription1": "",
-			"imageDescription2": "",
-			"imageDescription3": "",
-			"imageDescription4": "",
-			"color": ""
+			"imageTop": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/venomBackground.jpg",
+			"imageDescription1": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/venomDescription1.jpg",
+			"imageDescription2": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/venomDescription2.jpg",
+			"imageDescription3": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/venomDescription3.jpg",
+			"imageDescription4": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/venomDescription4.jpg",
+			"color": "#569ED8"
 		},
 		{
 			"movieName": "Moonlight",
@@ -58,12 +58,12 @@
 			"releaseDate": "June 21, 2019",
 			"description": "Between the events of Toy Story 2 and Toy Story 3, Woody and Bo Peep rescue RC, Andy's remote control car, from being washed away in a storm. Moments later, Bo Peep and her lamp are donated to a new owner. A distraught Woody considers coming with her, but in the end, decides his duty is to stay with Andy. Nine years later, after a college-bound Andy has donated his toys to Bonnie, Woody struggles to adapt, as the toys in Bonnie´s room already have a leader, Dolly. Bonnie also shows little interest in playing with him, giving his sheriff badge to Jessie instead. Woody still remains convinced Bonnie must need him, and sneaks into her backpack the day of her kindergarten orientation. When another child steals Bonnie´s art supplies, Woody gathers objects from the trash and leaves them on Bonnie´s table. Discovering them, Bonnie creates a doll from a spork and some other odds and ends, which she names Forky. Forky comes to life, but suffers an existential crisis and keeps trying to jump into the trash. As Forky quickly becomes Bonnie's new favorite toy, Woody repeatedly has to stop him from throwing himself away. ",
 			"moviePoster": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/toyStoryMoviePoster.jpg",
-			"imageTop": "",
-			"imageDescription1": "",
-			"imageDescription2": "",
-			"imageDescription3": "",
-			"imageDescription4": "",
-			"color": ""
+			"imageTop": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/toystoryBackground.jpg",
+			"imageDescription1": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/toystoryDescription1.jpg",
+			"imageDescription2": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/toystoryDescription2.jpg",
+			"imageDescription3": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/toystoryDescription3.jpg",
+			"imageDescription4": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/toystoryDescription4.jpg",
+			"color": "#FFE344"
 		},
 		{
 			"movieName": "Spiderman",
