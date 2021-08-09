@@ -10,7 +10,8 @@
 			"imageDescription1": "",
 			"imageDescription2": "",
 			"imageDescription3": "",
-			"imageDescription4": ""
+			"imageDescription4": "",
+			"color": ""
 		},
 		{
 			"movieName": "Moonlight",
@@ -22,7 +23,8 @@
 			"imageDescription1": "",
 			"imageDescription2": "",
 			"imageDescription3": "",
-			"imageDescription4": ""
+			"imageDescription4": "",
+			"color": "#6BCAD3"
 		},
 		{
 			"movieName": "Annabelle",
@@ -34,7 +36,8 @@
 			"imageDescription1": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/annabelleDescription1.jpg",
 			"imageDescription2": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/annabelleDescription2.jpg",
 			"imageDescription3": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/annabelleDescription3.jpg",
-			"imageDescription4": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/annabelleDescription4.jpg"
+			"imageDescription4": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/annabelleDescription4.jpg",
+			"color": "#EB050D"
 		},
 		{
 			"movieName": "Fast and Furious 9",
@@ -46,7 +49,8 @@
 			"imageDescription1": "",
 			"imageDescription2": "",
 			"imageDescription3": "",
-			"imageDescription4": ""
+			"imageDescription4": "",
+			"color": ""
 		},
 		{
 			"movieName": "Toy Story 4",
@@ -58,7 +62,8 @@
 			"imageDescription1": "",
 			"imageDescription2": "",
 			"imageDescription3": "",
-			"imageDescription4": ""
+			"imageDescription4": "",
+			"color": ""
 		},
 		{
 			"movieName": "Spiderman",
@@ -70,7 +75,8 @@
 			"imageDescription1": "",
 			"imageDescription2": "",
 			"imageDescription3": "",
-			"imageDescription4": ""
+			"imageDescription4": "",
+			"color": ""
 		},
 		{
 			"movieName": "365 Days",
@@ -82,7 +88,8 @@
 			"imageDescription1": "",
 			"imageDescription2": "",
 			"imageDescription3": "",
-			"imageDescription4": ""
+			"imageDescription4": "",
+			"color": ""
 		},
 		{
 			"movieName": "Bad Boys",
@@ -94,7 +101,8 @@
 			"imageDescription1": "",
 			"imageDescription2": "",
 			"imageDescription3": "",
-			"imageDescription4": ""
+			"imageDescription4": "",
+			"color": ""
 		},
 		{
 			"movieName": "The Lion King",
@@ -106,7 +114,8 @@
 			"imageDescription1": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/theLionKingDescription1.jpg",
 			"imageDescription2": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/theLionKingDescription2.jpg",
 			"imageDescription3": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/theLionKingDescription3.jpg",
-			"imageDescription4": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/theLionKingDescription4.jpg"
+			"imageDescription4": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/theLionKingDescription4.jpg",
+			"color": "#FAA71B"
 		}
 	]
 }
