@@ -1,4 +1,12 @@
 {
+	"users":[
+		{
+			"firstName": "Cristiano",
+			"lastName": "Ronaldo",
+			"email": "cristiano.ronaldo7@hotmail.com",
+			"password": "ronaldo7"
+		}
+	],
 	"movies":[
 		{
 			"movieName": "Venom",
