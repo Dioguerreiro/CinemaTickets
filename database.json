@@ -1,12 +1,4 @@
 {
-	"users":[
-		{
-			"firstName": "Cristiano",
-			"lastName": "Ronaldo",
-			"email": "cristiano.ronaldo7@hotmail.com",
-			"password": "ronaldo7"
-		}
-	],
 	"movies":[
 		{
 			"movieName": "Venom",
@@ -123,14 +115,14 @@
 			"color": ""
 		},
 		{
-			"movieName": "365 Days",
-			"movieSubname": "",
-			"releaseDate": "February 7, 2020",
-			"year": "2020",
-			"time": "1h 54m",
-			"category": "Drama, Romance",
-			"description": "After a meeting between the Torricelli Sicilian Mafia crime family and black market dealers, Massimo Torricelli watches a beautiful woman on a beach and talks with his father, the mafia boss. Suddenly, the dealers shoot Massimo and his father; Massimo survives while his father dies from his injuries. Five years later, Massimo is the leader of the Torricelli crime family. In Warsaw, Laura Biel is unhappy in her relationship with her boyfriend, Martin. Laura celebrates her 29th birthday in Italy with Martin and her best friend Olga, but after Martin visits Etna without her, she goes for a walk and runs into Massimo, who kidnaps her. At his villa, Massimo reveals to Laura that she was the woman at the beach five years ago and that when he was injured, all he could think about was her. After searching for years and finally spotting her, he kidnapped her, intending to keep her as a prisoner for 365 days in the hopes that she will fall in love with him. He also promises her that he will not have sex with her without her consent, though he is physically aggressive with her. As they spend time together, Laura teases him and then refuses to have sex with him. At a hotel in Rome, she begins to tease him again and he cuffs her to the bed. Massimo then makes Laura watch him receive oral sex from another woman. Afterward, he claims he is going to penetrate her but changes his mind and orders her to get dressed for a club. ",
-			"moviePoster": "https://raw.githubusercontent.com/Dioguerreiro/CinemaTickets/main/imagens/365MoviePoster.jpg",
+			"movieName": "Jurassic World",
+			"movieSubname": "Fallen Kingdom",
+			"releaseDate": "June 7, 2018",
+			"year": "2018",
+			"time": "2h 08m",
+			"category": "Action, Adventure, Science Fiction",
+			"description": "Three years after Jurassic World closed, a volcano about to erupt puts life on Isla Nublar at risk. There is no longer any human presence in the place and the dinosaurs live freely. Claire and Owen decide to rescue the animals and return to the island for the mission. There, the duo encounter terrifying new breeds of giant dinosaurs as they uncover a conspiracy that threatens the entire planet.",
+			"moviePoster": "",
 			"imageTop": "",
 			"imageDescription1": "",
 			"imageDescription2": "",
